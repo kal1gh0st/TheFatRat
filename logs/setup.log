@@ -1,0 +1,27 @@
+------------------------------------------------------
+| Tools paths configured in (setup.sh) for TheFatRat |
+------------------------------------------------------
+                                                      
+/usr/bin/xterm
+/usr/bin/dig
+/usr/bin/mcs
+/usr/bin/gcc
+/usr/sbin/apache2
+/usr/bin/gnome-terminal
+/usr/bin/upx
+/usr/bin/ruby
+/usr/bin/openssl
+/usr/bin/jarsigner
+/usr/bin/unzip
+/usr/bin/keytool
+/opt/TheFatRat/tools/android-sdk/zipalign
+/usr/bin/x86_64-w64-mingw32-gcc
+/usr/bin/i686-w64-mingw32-gcc
+/usr/local/sbin/dx
+/usr/local/sbin/aapt
+/usr/local/sbin/apktool
+/usr/local/sbin/baksmali
+msfconsole
+msfvenom
+backdoor-factory
+/usr/local/sbin/fatrat

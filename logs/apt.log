@@ -1,0 +1,60 @@
+Fatrat package location diagnostic
+-----------------------------------
+sudo - Exist in user repository
+netcat - Exist in user repository
+xterm - Exist in user repository
+dnsutils - Exist in user repository
+mono-mcs - Exist in user repository
+gcc - Exist in user repository
+apache2 - Exist in user repository
+gnome-terminal - Exist in user repository
+upx-ucl - Exist in user repository
+ruby - Exist in user repository
+openssl - Exist in user repository
+zlib1g-dev - Exist in user repository
+libmagickwand-dev - Exist in user repository
+imagemagick - Exist in user repository
+lib32z1 - Exist in user repository
+lib32ncurses5 - Does not exist in user repository
+lib32stdc++6 - Does not exist in user repository
+python-pip - Exist in user repository
+python-dev - Exist in user repository
+build-essential - Exist in user repository
+openjdk-8-jdk - Exist in user repository
+openjdk-8-jre - Exist in user repository
+unzip - Exist in user repository
+mingw32 - Does not exist in user repository
+mingw-w64 - Exist in user repository
+exploitdb - Exist in user repository
+backdoor-factory - Exist in user repository
+metasploit-framework - Exist in user repository
+
+-----------------------------------
+User path environment
+-----------------------------------
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+-----------------------------------
+User current repositories
+-----------------------------------
+# 
+
+# deb cdrom:[Debian GNU/Linux 2019.3 _Kali-rolling_ - Official Snapshot amd64 LIVE/INSTALL Binary 20190827-10:52]/ kali-last-snapshot contrib main non-free
+
+#deb cdrom:[Debian GNU/Linux 2019.3 _Kali-rolling_ - Official Snapshot amd64 LIVE/INSTALL Binary 20190827-10:52]/ kali-last-snapshot contrib main non-free
+
+deb https://http.kali.org/kali kali-rolling main non-free contrib
+# deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+# This system was installed using small removable media
+# (e.g. netinst, live or single CD). The matching "deb cdrom"
+# entries were disabled at the end of the installation process.
+# For information about how to configure apt package sources,
+# see the sources.list(5) manual.
+deb http://http.kali.org/kali kali-bleeding-edge contrib non-free main
+-----------------------------------
+-----------------------------------
+Linux kali 5.4.0-kali4-amd64 #1 SMP Debian 5.4.19-1kali1 (2020-02-17) x86_64 GNU/Linux
+-----------------------------------
+         Access User Level         
+-----------------------------------
+-----------------------------------
