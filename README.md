@@ -81,7 +81,4 @@ All notable changes to this project will be documented in this [file](https://gi
 - [NgeSEC](https://ngesec.id/) Community
 - [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
 
-## License
-TheFatRat is made with 🖤 by Edo Maland & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
-
 
